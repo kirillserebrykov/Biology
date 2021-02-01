@@ -168,7 +168,7 @@ h1,h2,h3,h4,h5{
    
    
 }
-input[type="submit" i] {
+input[type="button" i] {
   height: 30px;
   width: 120px;
   font-family:  Roboto, sans-serif;
